@@ -48,7 +48,7 @@ class MainActivity : AppCompatActivity() { //class - inheritance
         resetGame()
     }
 
-    override fun onCreateOtionsMenu(menu: Menu): Boolean {
+    override fun onCreateOptionsMenu(menu: Menu): Boolean {
         super.onCreateOptionsMenu(menu)
         menuInflater.inflate(R.menu.menu, menu)
         return true
