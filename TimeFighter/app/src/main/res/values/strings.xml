@@ -1,8 +1,10 @@
 <resources>
-    <string name="app_name">Time Fighter</string>
+    <string name="app_name">Tap Tap Tap</string>
     <string name="gameScore">Game Score: %1$d</string>
     <string name="timeLeft">Time Left: %1$d</string>
     <string name="tapMe">TAP ME!</string>
     <string name="gameOverMessage">Times up! your score is: %1$d</string>
     <string name="aboutMenu">About</string>
+    <string name="aboutTitle">Tap Tap Tap</string>
+    <string name="aboutMessage">Created by sharpshard</string>
 </resources>
